@@ -1,0 +1,28 @@
+@font-face {
+  font-family: redrose;
+  src: url(assets/fonts/RedRose-Regular.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: redrose, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+code {
+  font-family: redrose;
+}
+.css-ko2sdk {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.css-1bpapvj {
+  align-items: flex-end !important;
+}
